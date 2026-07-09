@@ -1,0 +1,12 @@
+# Dependencies
+node_modules/
+
+# Compiled JavaScript
+*.js
+
+# Source Maps
+*.js.map
+
+# Type Declaration Files
+*.d.ts
+*.d.ts.map
